@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 068896f19639de74aad9e5fb0fa48394
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bridge
+    100002: bridgerail-curve
+    100004: cargo1
+    100006: cargo10
+    100008: cargo11
+    100010: cargo2
+    100012: cargo3
+    100014: cargo4
+    100016: cargo5
+    100018: cargo6
+    100020: cargo7
+    100022: cargo8
+    100024: cargo9
+    100026: //RootNode
+    100028: cargo_ship
+    100030: crane
+    100032: Crane.000
+    100034: Crane.001
+    100036: Crane.002
+    100038: curve-railings
+    100040: Empty
+    100042: export
+    100044: hull
+    100046: original
+    100048: Plane.001
+    100050: Propeller
+    100052: railingspanel
+    100054: railingspanel.001
+    100056: wires-antenna
+    400000: bridge
+    400002: bridgerail-curve
+    400004: cargo1
+    400006: cargo10
+    400008: cargo11
+    400010: cargo2
+    400012: cargo3
+    400014: cargo4
+    400016: cargo5
+    400018: cargo6
+    400020: cargo7
+    400022: cargo8
+    400024: cargo9
+    400026: //RootNode
+    400028: cargo_ship
+    400030: crane
+    400032: Crane.000
+    400034: Crane.001
+    400036: Crane.002
+    400038: curve-railings
+    400040: Empty
+    400042: export
+    400044: hull
+    400046: original
+    400048: Plane.001
+    400050: Propeller
+    400052: railingspanel
+    400054: railingspanel.001
+    400056: wires-antenna
+    2100000: cable
+    2100002: hull
+    2100004: deck
+    2100006: anchor_h
+    2100008: anchor_r
+    2100010: railings
+    2100012: hatch
+    2100014: bridge
+    2100016: insidechimney
+    2100018: antenna
+    2100020: Material.001
+    2100022: rudder
+    2100024: crane
+    2300000: bridge
+    2300002: bridgerail-curve
+    2300004: cargo1
+    2300006: cargo10
+    2300008: cargo11
+    2300010: cargo2
+    2300012: cargo3
+    2300014: cargo4
+    2300016: cargo5
+    2300018: cargo6
+    2300020: cargo7
+    2300022: cargo8
+    2300024: cargo9
+    2300026: cargo_ship
+    2300028: crane
+    2300030: Crane.000
+    2300032: Crane.001
+    2300034: Crane.002
+    2300036: curve-railings
+    2300038: hull
+    2300040: Plane.001
+    2300042: Propeller
+    2300044: railingspanel
+    2300046: railingspanel.001
+    2300048: wires-antenna
+    2300050: //RootNode
+    3300000: bridge
+    3300002: bridgerail-curve
+    3300004: cargo1
+    3300006: cargo10
+    3300008: cargo11
+    3300010: cargo2
+    3300012: cargo3
+    3300014: cargo4
+    3300016: cargo5
+    3300018: cargo6
+    3300020: cargo7
+    3300022: cargo8
+    3300024: cargo9
+    3300026: cargo_ship
+    3300028: crane
+    3300030: Crane.000
+    3300032: Crane.001
+    3300034: Crane.002
+    3300036: curve-railings
+    3300038: hull
+    3300040: Plane.001
+    3300042: Propeller
+    3300044: railingspanel
+    3300046: railingspanel.001
+    3300048: wires-antenna
+    3300050: //RootNode
+    4300000: cargo_ship
+    4300002: crane
+    4300004: hull
+    4300006: wires-antenna
+    4300008: curve-railings
+    4300010: railingspanel
+    4300012: cargo9
+    4300014: cargo8
+    4300016: cargo7
+    4300018: cargo6
+    4300020: cargo5
+    4300022: cargo4
+    4300024: cargo3
+    4300026: cargo2
+    4300028: cargo11
+    4300030: cargo10
+    4300032: cargo1
+    4300034: bridgerail-curve
+    4300036: railingspanel.001
+    4300038: bridge
+    4300040: Propeller
+    4300042: Plane.001
+    4300044: Crane.002
+    4300046: Crane.001
+    4300048: Crane.000
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 44dc581d694ece44aac5e93952347691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anchor_h
+    second: {fileID: 2100000, guid: d23f43e59b400a141a0b11ab57fed26d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anchor_r
+    second: {fileID: 2100000, guid: 62afd281662f82340836c49ef2cb4fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: antenna
+    second: {fileID: 2100000, guid: 9f60bb95b0b7a3f4285763f339a8df7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bridge
+    second: {fileID: 2100000, guid: e697b47ee1795ba43a746c30abc242d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable
+    second: {fileID: 2100000, guid: 089eff61d78bddc4599a61d1c8a04d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: deck
+    second: {fileID: 2100000, guid: ae92896a587786544a0faeb97c020622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hatch
+    second: {fileID: 2100000, guid: 2446f9cf82c932d47a6ac3be96c92596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hull
+    second: {fileID: 2100000, guid: c555a20fb84a61748aa83e74dfa6e8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: insidechimney
+    second: {fileID: 2100000, guid: 9161fd8666e545f4d90aff77e9da8ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railings
+    second: {fileID: 2100000, guid: 167e62bafb6a56f4f846148b1b8e8d8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rudder
+    second: {fileID: 2100000, guid: eae33e9b842ba9f4eb3a1adf396fe2f8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
